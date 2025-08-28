@@ -1,6 +1,6 @@
 # Analytics Playground
 
-Small, focused Python mini-projects aligned to my Director of Analytics roadmap.
+Small, focused Python mini-projects aligned with mastering AI.
 
 ## Projects
 - **Secret Auction**: dictionaries, loops, input, winner calculation.
