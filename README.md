@@ -3,9 +3,9 @@
 Small, focused Python mini-projects aligned to my Director of Analytics roadmap.
 
 ## Projects
-- **Day 09 — Secret Auction** (`day09_secret_auction/`): dictionaries, loops, input, winner calculation.
-- **Day 10 — Function-Driven Calculator** (`day10_calculator/`): function map, returns vs prints, chaining operations.
-- **Day 11 — Blackjack (stub)** (`day11_blackjack/`): structure only; logic to be implemented by me (no spoilers).
+- **Secret Auction** (`day09_secret_auction/`): dictionaries, loops, input, winner calculation.
+- **Function-Driven Calculator** (`day10_calculator/`): function map, returns vs prints, chaining operations.
+- **Blackjack** (`day11_blackjack/`): structure only; logic to be implemented by me (no spoilers).
 
 ## Run locally
 ```bash
