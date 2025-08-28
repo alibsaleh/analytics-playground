@@ -1,4 +1,4 @@
-# Day 09 — Secret Auction
+# Secret Auction
 
 **What it is:** Console program that collects name → bid pairs, then announces the highest bidder.
 
