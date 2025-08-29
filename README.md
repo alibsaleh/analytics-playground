@@ -21,7 +21,7 @@ This repo is part of my ongoing skills sprint to improve automation, reliability
 |---|---|---|
 | **Secret Auction** (`Secret Auction/`) | CLI app to collect bids, store in a dictionary, compute the winner. | Mirrors **event capture → aggregation → decision**. Dicts/JSON maps are how services & agents pass state. |
 | **Function-Driven Calculator** (`Calculator/`) | Calculator that chains operations using a **function map** (`{'+': add, ...}`) and returns values for reuse. | Same pattern as **agent tool routing**: map an intent/symbol to a callable. Demonstrates pure functions, reusability, and state hand-off. |
-| **Blackjack** *(WIP)* | Game loop, deck state, decisions, scoring. | Encodes **rules & edge cases**—excellent practice for guardrails, validation, and flow control used in data/LLM pipelines. |
+| **Blackjack** ('Blackjack/') | Game loop, deck state, decisions, scoring. | Encodes **rules & edge cases**—excellent practice for guardrails, validation, and flow control used in data/LLM pipelines. |
 
 ---
 
