@@ -1,13 +1,8 @@
-# Blackjack
+# Blackjack (CLI)
 
-**What it is:** Project skeleton only. You add the game logic (no spoilers).
+Single-player vs dealer. Supports multiple decks, Ace handling (11→1 if bust), and clean deck draws (no empty-choice errors).
 
 ## Run
 ```bash
-python blackjack.py
-```
-
-## Tips
-- Keep functions pure; return values, print in `main()`.
-- Handle multiple Aces by adjusting 11→1 until total ≤ 21.
-- Dealer hits until 17+ (you choose soft 17 rule).
+# from repo root
+python "Blackjack/blackjack.py"
