@@ -1,4 +1,4 @@
-# Blackjack (CLI)
+# Blackjack
 
 Single-player vs dealer. Supports multiple decks, Ace handling (11→1 if bust), and clean deck draws (no empty-choice errors).
 
